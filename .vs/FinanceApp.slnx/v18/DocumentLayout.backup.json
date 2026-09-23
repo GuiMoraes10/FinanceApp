@@ -3,32 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\entities\\scheduledtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\entities\\scheduledtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\entities\\investment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\entities\\investment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\configuration\\cosmosdbconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,51 +81,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "src\\FinanceApp\\Services\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "src\\FinanceApp\\Services\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T14:31:38.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "src\\FinanceApp\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "src\\FinanceApp\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T14:19:22.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "src\\FinanceApp\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\UserService.cs",
-              "RelativeToolTip": "src\\FinanceApp\\Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T14:29:01.752Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -114,27 +91,152 @@
               "RelativeDocumentMoniker": "src\\FinanceApp\\Repositories\\Interfaces\\IUserRepository.cs",
               "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Repositories\\Interfaces\\IUserRepository.cs",
               "RelativeToolTip": "src\\FinanceApp\\Repositories\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-23T14:18:19.371Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "src\\FinanceApp\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "src\\FinanceApp\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T14:19:22.285Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "src\\FinanceApp\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "src\\FinanceApp\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T14:31:38.491Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "src\\FinanceApp\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\UserService.cs",
+              "RelativeToolTip": "src\\FinanceApp\\Services\\UserService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T14:29:01.752Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\DTOs\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "src\\FinanceApp\\DTOs\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\DTOs\\UpdateUserDto.cs",
+              "RelativeToolTip": "src\\FinanceApp\\DTOs\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:23:42.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\DTOs\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "src\\FinanceApp\\DTOs\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\DTOs\\UserRegisterDto.cs",
+              "RelativeToolTip": "src\\FinanceApp\\DTOs\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T18:37:12.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Investment.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Entities\\Investment.cs",
+              "RelativeDocumentMoniker": "src\\FinanceApp\\Entities\\Investment.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Entities\\Investment.cs",
+              "RelativeToolTip": "src\\FinanceApp\\Entities\\Investment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T18:22:41.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScheduledTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Entities\\ScheduledTransaction.cs",
+              "RelativeDocumentMoniker": "src\\FinanceApp\\Entities\\ScheduledTransaction.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Entities\\ScheduledTransaction.cs",
+              "RelativeToolTip": "src\\FinanceApp\\Entities\\ScheduledTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T18:19:57.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "src\\FinanceApp\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Entities\\Transaction.cs",
+              "RelativeToolTip": "src\\FinanceApp\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T18:15:18.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Models\\User.cs",
-              "RelativeDocumentMoniker": "src\\FinanceApp\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Models\\User.cs",
-              "RelativeToolTip": "src\\FinanceApp\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "src\\FinanceApp\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Entities\\User.cs",
+              "RelativeToolTip": "src\\FinanceApp\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-23T14:17:34.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\FinanceApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "src\\FinanceApp\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T12:46:58.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "CosmosDbConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Configuration\\CosmosDbConfiguration.cs",
               "RelativeDocumentMoniker": "src\\FinanceApp\\Configuration\\CosmosDbConfiguration.cs",
@@ -147,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\appsettings.Development.json",
               "RelativeDocumentMoniker": "src\\FinanceApp\\appsettings.Development.json",
@@ -160,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "src\\FinanceApp\\Properties\\launchSettings.json",
@@ -173,33 +275,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Program.cs",
               "RelativeDocumentMoniker": "src\\FinanceApp\\Program.cs",
               "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Program.cs",
               "RelativeToolTip": "src\\FinanceApp\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-23T12:39:02.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TestController.cs",
-              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Controllers\\TestController.cs",
-              "RelativeDocumentMoniker": "src\\FinanceApp\\Controllers\\TestController.cs",
-              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Controllers\\TestController.cs",
-              "RelativeToolTip": "src\\FinanceApp\\Controllers\\TestController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T12:46:58.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Microsoft.Azure.Cosmos.targets",
               "DocumentMoniker": "C:\\Users\\moraes\\.nuget\\packages\\microsoft.azure.cosmos\\3.60.0\\buildTransitive\\netstandard2.0\\Microsoft.Azure.Cosmos.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\microsoft.azure.cosmos\\3.60.0\\buildTransitive\\netstandard2.0\\Microsoft.Azure.Cosmos.targets",
@@ -212,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\appsettings.json",
               "RelativeDocumentMoniker": "src\\FinanceApp\\appsettings.json",
@@ -225,13 +314,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "FinanceApp",
               "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\FinanceApp.csproj",
               "RelativeDocumentMoniker": "src\\FinanceApp\\FinanceApp.csproj",
               "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\FinanceApp.csproj",
               "RelativeToolTip": "src\\FinanceApp\\FinanceApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-09-23T13:18:53.553Z",
               "EditorCaption": ""

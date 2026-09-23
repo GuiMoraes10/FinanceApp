@@ -5,26 +5,26 @@
     "version": "1.0"
   },
   "paths": {
-    "/test/user": {
+    "/user": {
       "post": {
         "tags": [
-          "Test"
+          "User"
         ],
         "requestBody": {
           "content": {
             "application/json": {
               "schema": {
-                "type": "string"
+                "$ref": "#/components/schemas/UserRegisterDto"
               }
             },
             "text/json": {
               "schema": {
-                "type": "string"
+                "$ref": "#/components/schemas/UserRegisterDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "type": "string"
+                "$ref": "#/components/schemas/UserRegisterDto"
               }
             }
           }
@@ -35,19 +35,37 @@
           }
         }
       }
-    },
-    "/test/cosmos": {
-      "get": {
-        "tags": [
-          "Test"
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
     }
   },
-  "components": { }
+  "components": {
+    "schemas": {
+      "UserRegisterDto": {
+        "required": [
+          "name",
+          "password",
+          "userName"
+        ],
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "userName": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          },
+          "balance": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
 }
