@@ -1,15 +1,55 @@
+using FinanceApp.Configuration;
+using FinanceApp.Repositories;
+using FinanceApp.Repositories.Interfaces;
+using FinanceApp.Services;
+using FinanceApp.Services.Interfaces;
+using Microsoft.Azure.Cosmos;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+builder.Services.AddSingleton<CosmosClient>(sp =>
+{
+    var configuration = sp.GetRequiredService<IConfiguration>();
+
+    var endpoint = configuration["CosmosDb:Endpoint"];
+    var key = configuration["CosmosDb:Key"];
+
+    var options = new CosmosClientOptions
+    {
+        ConnectionMode = ConnectionMode.Gateway,
+        LimitToEndpoint = true,
+        RequestTimeout = TimeSpan.FromSeconds(10),
+
+        SerializerOptions = new CosmosSerializationOptions
+        {
+            PropertyNamingPolicy = CosmosPropertyNamingPolicy.CamelCase
+        },
+
+        HttpClientFactory = () =>
+        {
+            var handler = new HttpClientHandler
+            {
+                ServerCertificateCustomValidationCallback =
+                    HttpClientHandler.DangerousAcceptAnyServerCertificateValidator
+            };
+
+            return new HttpClient(handler);
+        }
+    };
+
+    return new CosmosClient(endpoint, key, options);
+});
+
+builder.Services.AddSingleton<CosmosDbConfiguration>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IUserService, UserService>();
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

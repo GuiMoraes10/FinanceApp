@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "FinanceApp.Controllers.TestController",
+    "Method": "TestCosmos",
+    "RelativePath": "test/cosmos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinanceApp.Controllers.TestController",
+    "Method": "TestRequisition",
+    "RelativePath": "test/user",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

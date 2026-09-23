@@ -7,11 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+    <PackageReference Include="Microsoft.Azure.Cosmos" Version="3.63.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="8.1.4" />
+	<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <Folder Include="DTOs\" />
   </ItemGroup>
 
 </Project>
