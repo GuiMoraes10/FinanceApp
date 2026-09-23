@@ -1,7 +1,6 @@
 ﻿using FinanceApp.Configuration;
 using FinanceApp.Repositories.Interfaces;
 using Microsoft.Azure.Cosmos;
-using FinanceApp.Models;
 using System.Text.Json;
 
 namespace FinanceApp.Repositories
@@ -15,7 +14,7 @@ namespace FinanceApp.Repositories
             _container = cosmos.Users;
         }
 
-        public async Task<Models.User> CreateAsync(Models.User user)
+        public async Task<Entities.User> CreateAsync(Entities.User user)
         {
             var response = await _container.CreateItemAsync(
                 user,
@@ -24,11 +23,11 @@ namespace FinanceApp.Repositories
             return response.Resource;
         }
 
-        public async Task<Models.User?> GetByIdAsync(string id)
+        public async Task<Entities.User?> GetByIdAsync(string id)
         {
             try
             {
-                var response = await _container.ReadItemAsync<Models.User>(
+                var response = await _container.ReadItemAsync<Entities.User>(
                     id,
                     new PartitionKey(id));
 

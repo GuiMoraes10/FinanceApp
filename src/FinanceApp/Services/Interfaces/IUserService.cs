@@ -1,4 +1,4 @@
-﻿using FinanceApp.Models;
+﻿using FinanceApp.Entities;
 
 namespace FinanceApp.Services.Interfaces
 {

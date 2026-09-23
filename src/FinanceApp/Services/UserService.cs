@@ -1,4 +1,4 @@
-﻿using FinanceApp.Models;
+﻿using FinanceApp.Entities;
 using FinanceApp.Repositories.Interfaces;
 using FinanceApp.Services.Interfaces;
 
