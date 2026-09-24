@@ -43,7 +43,7 @@ namespace FinanceApp.Controllers
             return NoContent();
         }
 
-        [HttpPatch("{id}/{userid}")]
+        [HttpPatch("{id}/{userId}")]
         public async Task<IActionResult> UpdateScheduledTransaction(string id, string userId, [FromBody]ScheduledTransactionUpdateDto dto)
         {
             var result = await _service.UpdateAsync(id, userId, dto);
@@ -54,7 +54,7 @@ namespace FinanceApp.Controllers
             return Ok(result);
         }
 
-        [HttpGet("{userid}")]
+        [HttpGet("{userId}")]
         public async Task<IActionResult> GetByUserId(string userId)
         {
             var result = await _service.GetByUserIdAsync(userId);
