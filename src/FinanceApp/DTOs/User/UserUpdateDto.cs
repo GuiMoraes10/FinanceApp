@@ -1,6 +1,6 @@
-﻿namespace FinanceApp.DTOs
+﻿namespace FinanceApp.DTOs.User
 {
-    public class UpdateUserDto
+    public class UserUpdateDto
     {
         public required string Name { get; set; }
         public required string UserName { get; set; }

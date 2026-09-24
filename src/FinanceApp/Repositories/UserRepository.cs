@@ -14,7 +14,7 @@ namespace FinanceApp.Repositories
             _container = cosmos.Users;
         }
 
-        public async Task<Entities.User> CreateUserAsync(Entities.User user)
+        public async Task<Entities.User> CreateAsync(Entities.User user)
         {
             var response = await _container.CreateItemAsync(
                 user,
@@ -23,7 +23,7 @@ namespace FinanceApp.Repositories
             return response.Resource;
         }
 
-        public async Task<Entities.User?> GetUserByIdAsync(string id)
+        public async Task<Entities.User?> GetIdAsync(string id)
         {
             try
             {
@@ -40,7 +40,7 @@ namespace FinanceApp.Repositories
             }
         }
 
-        public async Task<Entities.User> UpdateUserAsync(Entities.User user)
+        public async Task<Entities.User> UpdateAsync(Entities.User user)
         {
             var response = await _container.ReplaceItemAsync(
                 user,
@@ -50,7 +50,7 @@ namespace FinanceApp.Repositories
             return response.Resource;
         }
 
-        public async Task<bool> DeleteUserAsync(string id)
+        public async Task<bool> DeleteAsync(string id)
         {
             try
             {

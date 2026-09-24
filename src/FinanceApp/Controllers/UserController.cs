@@ -1,5 +1,5 @@
 ﻿using FinanceApp.Configuration;
-using FinanceApp.DTOs;
+using FinanceApp.DTOs.User;
 using FinanceApp.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using System.ComponentModel.DataAnnotations;
@@ -46,7 +46,7 @@ namespace FinanceApp.Controllers
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateUser(string id, [FromBody] UpdateUserDto dto)
+        public async Task<IActionResult> UpdateUser(string id, [FromBody] UserUpdateDto dto)
         {
             var result = await _userService.UpdateUser(id, dto);
 

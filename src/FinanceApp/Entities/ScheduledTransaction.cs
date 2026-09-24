@@ -8,8 +8,7 @@
         public decimal Value { get; set; } = 0;
         public int Day { get; set; }
         public bool Recurring { get; set; }
-        public int? RemainingOcurrences { get; set; }
-        public int MissingTimes { get; set; } = 1;
+        public int? RemainingOccurrences { get; set; } = 1;
         public bool Active { get; set; } = true;
         public TransactionType Type {  get; set; }
     }

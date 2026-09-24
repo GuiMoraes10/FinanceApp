@@ -43,6 +43,8 @@ builder.Services.AddSingleton<CosmosClient>(sp =>
 builder.Services.AddSingleton<CosmosDbConfiguration>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<IScheduledTransactionRepository, ScheduledTransactionRepository>();
+builder.Services.AddScoped<IScheduledTransactionService, ScheduledTransactionService>();
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();

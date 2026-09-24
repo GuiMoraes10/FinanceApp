@@ -5,9 +5,9 @@ namespace FinanceApp.Repositories.Interfaces
 {
     public interface IUserRepository
     {
-        public Task<User> CreateUserAsync(User user);
-        public Task<User?> GetUserByIdAsync(string id);
-        public Task<User> UpdateUserAsync(User user);
-        public Task<bool> DeleteUserAsync(string id);
+        public Task<User> CreateAsync(User user);
+        public Task<User?> GetIdAsync(string id);
+        public Task<User> UpdateAsync(User user);
+        public Task<bool> DeleteAsync(string id);
     }
 }
