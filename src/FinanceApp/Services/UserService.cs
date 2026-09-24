@@ -22,7 +22,6 @@ namespace FinanceApp.Services
             return await _repository.CreateUserAsync(user);
         }
 
-
         public async Task<User?> GetUserById(string id)
         {
             return await _repository.GetUserByIdAsync(id);

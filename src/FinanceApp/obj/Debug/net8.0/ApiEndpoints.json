@@ -1,7 +1,7 @@
 [
   {
     "ContainingType": "FinanceApp.Controllers.UserController",
-    "Method": "TestRequisition",
+    "Method": "PostUser",
     "RelativePath": "user",
     "HttpMethod": "POST",
     "IsController": true,
@@ -10,6 +10,101 @@
       {
         "Name": "dto",
         "Type": "FinanceApp.DTOs.UserRegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinanceApp.Controllers.UserController",
+    "Method": "GetUser",
+    "RelativePath": "user/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinanceApp.Controllers.UserController",
+    "Method": "DeleteUser",
+    "RelativePath": "user/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinanceApp.Controllers.UserController",
+    "Method": "UpdateUser",
+    "RelativePath": "user/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "FinanceApp.DTOs.UpdateUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinanceApp.Controllers.UserController",
+    "Method": "UpdateBalance",
+    "RelativePath": "user/{id}/balance",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "balance",
+        "Type": "System.Decimal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinanceApp.Controllers.UserController",
+    "Method": "UpdatePassword",
+    "RelativePath": "user/{id}/password",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
         "IsRequired": true
       }
     ],
