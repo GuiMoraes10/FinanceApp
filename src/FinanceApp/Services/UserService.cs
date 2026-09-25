@@ -24,7 +24,7 @@ namespace FinanceApp.Services
 
         public async Task<User?> GetUserById(string id)
         {
-            return await _repository.GetIdAsync(id);
+            return await _repository.GetByIdAsync(id);
         }
 
         public async Task<bool> DeleteUserAsync(string id)
@@ -34,7 +34,7 @@ namespace FinanceApp.Services
 
         public async Task<bool> SetUserBalance(string id, decimal value)
         {
-            User? user = await _repository.GetIdAsync(id);
+            User? user = await _repository.GetByIdAsync(id);
 
             if (user is null)
                 return false;
@@ -48,7 +48,7 @@ namespace FinanceApp.Services
 
         public async Task<User?> UpdateUser(string id, UserUpdateDto dto)
         {
-            User? user = await _repository.GetIdAsync(id);
+            User? user = await _repository.GetByIdAsync(id);
 
             if (user is null)
                 return null;
@@ -63,7 +63,7 @@ namespace FinanceApp.Services
 
         public async Task<bool> SetUserPassword(string id, string value)
         {
-            User? user = await _repository.GetIdAsync(id);
+            User? user = await _repository.GetByIdAsync(id);
 
             if (user is null)
                 return false;

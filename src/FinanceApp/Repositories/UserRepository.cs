@@ -23,7 +23,7 @@ namespace FinanceApp.Repositories
             return response.Resource;
         }
 
-        public async Task<Entities.User?> GetIdAsync(string id)
+        public async Task<Entities.User?> GetByIdAsync(string id)
         {
             try
             {
