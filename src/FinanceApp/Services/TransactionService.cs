@@ -16,7 +16,7 @@ namespace FinanceApp.Services
             return await _transactionRepository.GetByIdAsync(id, userId);
         }
 
-        public async Task<IEnumerable<Transaction>> GetByUserId(string userId)
+        public async Task<IEnumerable<Transaction>> GetByUserIdAsync(string userId)
         {
             return await _transactionRepository.GetByUserIdAsync(userId);
         }

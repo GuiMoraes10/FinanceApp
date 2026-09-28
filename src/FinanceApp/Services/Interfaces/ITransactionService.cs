@@ -9,6 +9,6 @@ namespace FinanceApp.Services.Interfaces
         public Task<Transaction?> GetByIdAsync(string id, string userId);
         public Task<bool> DeleteAsync(string id, string userId);
         public Task<Transaction?> UpdateAsync(string id, string userId, TransactionUpdateDto dto);
-        public Task<IEnumerable<Transaction>> GetByUserId(string userId);
+        public Task<IEnumerable<Transaction>> GetByUserIdAsync(string userId);
     }
 }
