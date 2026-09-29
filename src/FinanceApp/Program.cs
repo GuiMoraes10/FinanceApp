@@ -40,6 +40,7 @@ builder.Services.AddSingleton<CosmosClient>(sp =>
     return new CosmosClient(endpoint, key, options);
 });
 
+builder.Services.AddSingleton<CosmosDbInitializer>();
 builder.Services.AddSingleton<CosmosDbConfiguration>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IUserService, UserService>();
@@ -56,6 +57,13 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+
+using (var scope = app.Services.CreateScope())
+{
+    var initializer = scope.ServiceProvider.GetRequiredService<CosmosDbInitializer>();
+
+    await initializer.InitializeAsync();
+}
 
 if (app.Environment.IsDevelopment())
 {
