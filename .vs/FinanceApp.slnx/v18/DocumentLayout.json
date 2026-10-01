@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\controllers\\financialprojectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\controllers\\financialprojectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\services\\investmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\services\\investmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\services\\financialprojectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\services\\financialprojectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\services\\scheduledtransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\services\\scheduledtransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\services\\interfaces\\ifinancialprojectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\services\\interfaces\\ifinancialprojectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\controllers\\financialprojectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\controllers\\financialprojectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\controllers\\investmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\controllers\\investmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\dtos\\scheduledtransaction\\scheduledtransactionupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\dtos\\scheduledtransaction\\scheduledtransactionupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\services\\scheduledtransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\services\\scheduledtransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\repositories\\scheduledtransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\repositories\\scheduledtransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,30 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\services\\interfaces\\iinvestmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\services\\interfaces\\iinvestmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\services\\investmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\services\\investmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\dtos\\scheduledtransaction\\scheduledtransactionupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\dtos\\scheduledtransaction\\scheduledtransactionupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\dtos\\scheduledtransaction\\scheduledtransactionreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\dtos\\scheduledtransaction\\scheduledtransactionreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\dtos\\scheduledtransaction\\scheduledtransactionregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|solutionrelative:src\\financeapp\\dtos\\scheduledtransaction\\scheduledtransactionregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F5870BC-4B31-1569-23D0-2AF34580E3CE}|src\\FinanceApp\\FinanceApp.csproj|c:\\users\\moraes\\documents\\proj\\pers\\financeapp\\src\\financeapp\\configuration\\cosmosdbconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -105,11 +89,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Program.cs",
               "RelativeDocumentMoniker": "src\\FinanceApp\\Program.cs",
@@ -123,13 +107,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "FinancialProjectionController.cs",
               "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Controllers\\FinancialProjectionController.cs",
               "RelativeDocumentMoniker": "src\\FinanceApp\\Controllers\\FinancialProjectionController.cs",
               "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Controllers\\FinancialProjectionController.cs",
               "RelativeToolTip": "src\\FinanceApp\\Controllers\\FinancialProjectionController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBsAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-01T13:35:03.379Z",
               "IsPinned": true,
@@ -137,13 +121,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "InvestmentController.cs",
               "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Controllers\\InvestmentController.cs",
               "RelativeDocumentMoniker": "src\\FinanceApp\\Controllers\\InvestmentController.cs",
               "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Controllers\\InvestmentController.cs",
               "RelativeToolTip": "src\\FinanceApp\\Controllers\\InvestmentController.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAuwFIAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwF0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-01T13:53:11.064Z",
               "IsPinned": true,
@@ -151,7 +135,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvestmentService.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\InvestmentService.cs",
+              "RelativeDocumentMoniker": "src\\FinanceApp\\Services\\InvestmentService.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\InvestmentService.cs",
+              "RelativeToolTip": "src\\FinanceApp\\Services\\InvestmentService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwEQAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T14:21:19.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinancialProjectionService.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\FinancialProjectionService.cs",
+              "RelativeDocumentMoniker": "src\\FinanceApp\\Services\\FinancialProjectionService.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\FinancialProjectionService.cs",
+              "RelativeToolTip": "src\\FinanceApp\\Services\\FinancialProjectionService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T14:20:01.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScheduledTransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\ScheduledTransactionService.cs",
+              "RelativeDocumentMoniker": "src\\FinanceApp\\Services\\ScheduledTransactionService.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\ScheduledTransactionService.cs",
+              "RelativeToolTip": "src\\FinanceApp\\Services\\ScheduledTransactionService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T14:06:48.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ScheduledTransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Repositories\\ScheduledTransactionRepository.cs",
+              "RelativeDocumentMoniker": "src\\FinanceApp\\Repositories\\ScheduledTransactionRepository.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Repositories\\ScheduledTransactionRepository.cs",
+              "RelativeToolTip": "src\\FinanceApp\\Repositories\\ScheduledTransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T14:06:41.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "IInvestmentService.cs",
               "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\Interfaces\\IInvestmentService.cs",
               "RelativeDocumentMoniker": "src\\FinanceApp\\Services\\Interfaces\\IInvestmentService.cs",
@@ -168,20 +204,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "ScheduledTransactionUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\DTOs\\ScheduledTransaction\\ScheduledTransactionUpdateDto.cs",
               "RelativeDocumentMoniker": "src\\FinanceApp\\DTOs\\ScheduledTransaction\\ScheduledTransactionUpdateDto.cs",
               "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\DTOs\\ScheduledTransaction\\ScheduledTransactionUpdateDto.cs",
               "RelativeToolTip": "src\\FinanceApp\\DTOs\\ScheduledTransaction\\ScheduledTransactionUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-29T18:32:06.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 13,
               "Title": "CosmosDbInitializer.cs",
               "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Configuration\\CosmosDbInitializer.cs",
               "RelativeDocumentMoniker": "src\\FinanceApp\\Configuration\\CosmosDbInitializer.cs",
@@ -193,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 12,
               "Title": "UserUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\DTOs\\User\\UserUpdateDto.cs",
               "RelativeDocumentMoniker": "src\\FinanceApp\\DTOs\\User\\UserUpdateDto.cs",
@@ -205,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 11,
               "Title": "UserRegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\DTOs\\User\\UserRegisterDto.cs",
               "RelativeDocumentMoniker": "src\\FinanceApp\\DTOs\\User\\UserRegisterDto.cs",
@@ -217,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Entities\\User.cs",
               "RelativeDocumentMoniker": "src\\FinanceApp\\Entities\\User.cs",
@@ -229,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
               "Title": "CosmosDbConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Configuration\\CosmosDbConfiguration.cs",
               "RelativeDocumentMoniker": "src\\FinanceApp\\Configuration\\CosmosDbConfiguration.cs",
@@ -241,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 14,
               "Title": "ScheduledTransaction.cs",
               "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Entities\\ScheduledTransaction.cs",
               "RelativeDocumentMoniker": "src\\FinanceApp\\Entities\\ScheduledTransaction.cs",
@@ -253,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 15,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\appsettings.Development.json",
               "RelativeDocumentMoniker": "src\\FinanceApp\\appsettings.Development.json",
@@ -265,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 17,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "src\\FinanceApp\\Properties\\launchSettings.json",
@@ -277,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 19,
               "Title": "Microsoft.Azure.Cosmos.targets",
               "DocumentMoniker": "C:\\Users\\moraes\\.nuget\\packages\\microsoft.azure.cosmos\\3.60.0\\buildTransitive\\netstandard2.0\\Microsoft.Azure.Cosmos.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\microsoft.azure.cosmos\\3.60.0\\buildTransitive\\netstandard2.0\\Microsoft.Azure.Cosmos.targets",
@@ -289,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\appsettings.json",
               "RelativeDocumentMoniker": "src\\FinanceApp\\appsettings.json",
@@ -301,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 16,
               "Title": "FinanceApp.csproj",
               "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\FinanceApp.csproj",
               "RelativeDocumentMoniker": "src\\FinanceApp\\FinanceApp.csproj",
@@ -310,133 +346,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-09-23T13:18:53.553Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "a67a8396-94e6-45a4-869f-0b4be574994f",
-        "Display": 1,
-        "X": 60,
-        "Y": 45,
-        "Width": 1561,
-        "Height": 750,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 4,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "src\\FinanceApp\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\UserService.cs",
-              "RelativeToolTip": "src\\FinanceApp\\Services\\UserService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T14:29:01.752Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TransactionService.cs",
-              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\TransactionService.cs",
-              "RelativeDocumentMoniker": "src\\FinanceApp\\Services\\TransactionService.cs",
-              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\TransactionService.cs",
-              "RelativeToolTip": "src\\FinanceApp\\Services\\TransactionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T13:15:00.413Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "InvestmentService.cs",
-              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\InvestmentService.cs",
-              "RelativeDocumentMoniker": "src\\FinanceApp\\Services\\InvestmentService.cs",
-              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\InvestmentService.cs",
-              "RelativeToolTip": "src\\FinanceApp\\Services\\InvestmentService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowDIAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T13:14:58.654Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ScheduledTransactionService.cs",
-              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\ScheduledTransactionService.cs",
-              "RelativeDocumentMoniker": "src\\FinanceApp\\Services\\ScheduledTransactionService.cs",
-              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\ScheduledTransactionService.cs",
-              "RelativeToolTip": "src\\FinanceApp\\Services\\ScheduledTransactionService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowDoAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T13:16:02.214Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FinancialProjectionService.cs",
-              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\FinancialProjectionService.cs",
-              "RelativeDocumentMoniker": "src\\FinanceApp\\Services\\FinancialProjectionService.cs",
-              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\FinancialProjectionService.cs",
-              "RelativeToolTip": "src\\FinanceApp\\Services\\FinancialProjectionService.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAuwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-24T18:02:26.902Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IFinancialProjectionService.cs",
-              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\Interfaces\\IFinancialProjectionService.cs",
-              "RelativeDocumentMoniker": "src\\FinanceApp\\Services\\Interfaces\\IFinancialProjectionService.cs",
-              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\Services\\Interfaces\\IFinancialProjectionService.cs",
-              "RelativeToolTip": "src\\FinanceApp\\Services\\Interfaces\\IFinancialProjectionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-24T18:15:05.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ScheduledTransactionRegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\DTOs\\ScheduledTransaction\\ScheduledTransactionRegisterDto.cs",
-              "RelativeDocumentMoniker": "src\\FinanceApp\\DTOs\\ScheduledTransaction\\ScheduledTransactionRegisterDto.cs",
-              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\DTOs\\ScheduledTransaction\\ScheduledTransactionRegisterDto.cs",
-              "RelativeToolTip": "src\\FinanceApp\\DTOs\\ScheduledTransaction\\ScheduledTransactionRegisterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T18:32:08.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ScheduledTransactionReportDto.cs",
-              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\DTOs\\ScheduledTransaction\\ScheduledTransactionReportDto.cs",
-              "RelativeDocumentMoniker": "src\\FinanceApp\\DTOs\\ScheduledTransaction\\ScheduledTransactionReportDto.cs",
-              "ToolTip": "C:\\Users\\moraes\\Documents\\Proj\\Pers\\FinanceApp\\src\\FinanceApp\\DTOs\\ScheduledTransaction\\ScheduledTransactionReportDto.cs",
-              "RelativeToolTip": "src\\FinanceApp\\DTOs\\ScheduledTransaction\\ScheduledTransactionReportDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T18:30:08.689Z"
             }
           ]
         }

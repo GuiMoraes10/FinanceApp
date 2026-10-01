@@ -15,7 +15,7 @@ namespace FinanceApp.Services
             {
                 UserId = dto.UserId,
                 Name = dto.Name,
-                Balance = dto.Balance,
+                Balance = Math.Round(dto.Balance, 2),
                 EstimatedPercent = dto.EstimatedPercent,
             };
 
@@ -35,7 +35,7 @@ namespace FinanceApp.Services
                 return null;
 
             investment.Name = dto.Name;
-            investment.Balance = dto.Balance;
+            investment.Balance = Math.Round(dto.Balance, 2);
             investment.EstimatedPercent = dto.EstimatedPercent;
 
             return await _repository.UpdateAsync(investment);
@@ -61,7 +61,7 @@ namespace FinanceApp.Services
             if (investment.Balance < value)
                 throw new InvalidOperationException("Investment has insufficient balance");
 
-            investment.Balance -= value;
+            investment.Balance = Math.Round(investment.Balance - value, 2);
 
             return await _repository.UpdateAsync(investment);
         }
@@ -73,7 +73,7 @@ namespace FinanceApp.Services
             if (investment is null)
                 return null;
 
-            investment.Balance += value;
+            investment.Balance = Math.Round(investment.Balance + value, 2);
 
             return await _repository.UpdateAsync(investment);
         }

@@ -1,5 +1,85 @@
 [
   {
+    "ContainingType": "FinanceApp.Controllers.FinancialProjectionController",
+    "Method": "GetMonthlyBalance",
+    "RelativePath": "financialProjection/{userId}/monthlyBalance",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinanceApp.Controllers.FinancialProjectionController",
+    "Method": "GetMonthlyScheduledExpenses",
+    "RelativePath": "financialProjection/{userId}/monthlyScheduledExpenses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinanceApp.Controllers.FinancialProjectionController",
+    "Method": "GetMonthlyScheduledIncomes",
+    "RelativePath": "financialProjection/{userId}/monthlyScheduledIncomes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinanceApp.Controllers.FinancialProjectionController",
+    "Method": "GetYearlyInvestmentsProjection",
+    "RelativePath": "financialProjection/{userId}/yearlyInvestmentsProjection",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinanceApp.Controllers.FinancialProjectionController",
+    "Method": "GetYearlyRelatory",
+    "RelativePath": "financialProjection/{userId}/yearlyRelatory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "FinanceApp.Controllers.InvestmentController",
     "Method": "PostInvestment",
     "RelativePath": "investment",

@@ -99,6 +99,8 @@ namespace FinanceApp.Services
                 {
                     monthBalance += monthBalance * investment.EstimatedPercent / 100;
 
+                    monthBalance = Math.Round(monthBalance, 2, MidpointRounding.ToEven);
+
                     projection[i] = monthBalance;
                 }
 

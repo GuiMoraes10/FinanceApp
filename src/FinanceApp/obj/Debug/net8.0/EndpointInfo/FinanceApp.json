@@ -5,6 +5,116 @@
     "version": "1.0"
   },
   "paths": {
+    "/financialProjection/{userId}/monthlyBalance": {
+      "get": {
+        "tags": [
+          "FinancialProjection"
+        ],
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/financialProjection/{userId}/monthlyScheduledExpenses": {
+      "get": {
+        "tags": [
+          "FinancialProjection"
+        ],
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/financialProjection/{userId}/monthlyScheduledIncomes": {
+      "get": {
+        "tags": [
+          "FinancialProjection"
+        ],
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/financialProjection/{userId}/yearlyInvestmentsProjection": {
+      "get": {
+        "tags": [
+          "FinancialProjection"
+        ],
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/financialProjection/{userId}/yearlyRelatory": {
+      "get": {
+        "tags": [
+          "FinancialProjection"
+        ],
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/investment": {
       "post": {
         "tags": [
