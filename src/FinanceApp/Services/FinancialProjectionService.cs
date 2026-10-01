@@ -11,7 +11,7 @@ namespace FinanceApp.Services
         private readonly IUserService _userService = userService;
         private readonly IInvestmentService _investmentService = investmentService;
 
-        public async Task<decimal> GetMonthBalance(string userId)
+        public async Task<decimal> GetMonthlyBalance(string userId)
         {
             var scheduledTransations = await _scheduledTransationService.GetByUserIdAsync(userId);
 
