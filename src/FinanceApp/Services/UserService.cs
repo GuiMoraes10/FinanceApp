@@ -2,13 +2,12 @@
 using FinanceApp.Entities;
 using FinanceApp.Repositories.Interfaces;
 using FinanceApp.Services.Interfaces;
-using Newtonsoft.Json.Linq;
 
 namespace FinanceApp.Services
 {
     public class UserService(IUserRepository repository) : IUserService
     {
-        IUserRepository _repository = repository;
+        private readonly IUserRepository _repository = repository;
 
         public async Task<User> CreateNewUser(UserRegisterDto dto)
         {

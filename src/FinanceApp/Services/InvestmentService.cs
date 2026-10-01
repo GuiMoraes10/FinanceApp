@@ -11,7 +11,7 @@ namespace FinanceApp.Services
 
         public async Task<Investment> CreateAsync(InvestmentRegisterDto dto)
         {
-            Investment investment = new Investment
+            Investment investment = new()
             {
                 UserId = dto.UserId,
                 Name = dto.Name,
