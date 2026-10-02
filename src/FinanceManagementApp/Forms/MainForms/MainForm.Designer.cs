@@ -95,6 +95,7 @@
             // SettingsBtn
             // 
             SettingsBtn.BackColor = Color.FromArgb(45, 45, 45);
+            SettingsBtn.Cursor = Cursors.Hand;
             SettingsBtn.FlatAppearance.BorderColor = Color.FromArgb(63, 63, 70);
             SettingsBtn.FlatAppearance.MouseDownBackColor = Color.FromArgb(55, 55, 58);
             SettingsBtn.FlatAppearance.MouseOverBackColor = Color.FromArgb(70, 70, 74);
@@ -113,6 +114,7 @@
             // ProjectionsBtn
             // 
             ProjectionsBtn.BackColor = Color.FromArgb(45, 45, 45);
+            ProjectionsBtn.Cursor = Cursors.Hand;
             ProjectionsBtn.FlatAppearance.BorderColor = Color.FromArgb(63, 63, 70);
             ProjectionsBtn.FlatAppearance.MouseDownBackColor = Color.FromArgb(55, 55, 58);
             ProjectionsBtn.FlatAppearance.MouseOverBackColor = Color.FromArgb(70, 70, 74);
@@ -131,6 +133,7 @@
             // InvestmentsBtn
             // 
             InvestmentsBtn.BackColor = Color.FromArgb(45, 45, 45);
+            InvestmentsBtn.Cursor = Cursors.Hand;
             InvestmentsBtn.FlatAppearance.BorderColor = Color.FromArgb(63, 63, 70);
             InvestmentsBtn.FlatAppearance.MouseDownBackColor = Color.FromArgb(55, 55, 58);
             InvestmentsBtn.FlatAppearance.MouseOverBackColor = Color.FromArgb(70, 70, 74);
@@ -149,6 +152,7 @@
             // CallendarBtn
             // 
             CallendarBtn.BackColor = Color.FromArgb(45, 45, 45);
+            CallendarBtn.Cursor = Cursors.Hand;
             CallendarBtn.FlatAppearance.BorderColor = Color.FromArgb(63, 63, 70);
             CallendarBtn.FlatAppearance.MouseDownBackColor = Color.FromArgb(55, 55, 58);
             CallendarBtn.FlatAppearance.MouseOverBackColor = Color.FromArgb(70, 70, 74);
@@ -167,6 +171,7 @@
             // TransactionsBtn
             // 
             TransactionsBtn.BackColor = Color.FromArgb(45, 45, 45);
+            TransactionsBtn.Cursor = Cursors.Hand;
             TransactionsBtn.FlatAppearance.BorderColor = Color.FromArgb(63, 63, 70);
             TransactionsBtn.FlatAppearance.MouseDownBackColor = Color.FromArgb(55, 55, 58);
             TransactionsBtn.FlatAppearance.MouseOverBackColor = Color.FromArgb(70, 70, 74);
@@ -185,6 +190,7 @@
             // DashboardBtn
             // 
             DashboardBtn.BackColor = Color.FromArgb(45, 45, 45);
+            DashboardBtn.Cursor = Cursors.Hand;
             DashboardBtn.FlatAppearance.BorderColor = Color.FromArgb(63, 63, 70);
             DashboardBtn.FlatAppearance.MouseDownBackColor = Color.FromArgb(55, 55, 58);
             DashboardBtn.FlatAppearance.MouseOverBackColor = Color.FromArgb(70, 70, 74);
@@ -214,6 +220,7 @@
             // SwPicturePb
             // 
             SwPicturePb.BackColor = Color.Transparent;
+            SwPicturePb.Cursor = Cursors.Hand;
             SwPicturePb.Dock = DockStyle.Top;
             SwPicturePb.Image = (Image)resources.GetObject("SwPicturePb.Image");
             SwPicturePb.Location = new Point(0, 0);
@@ -222,6 +229,7 @@
             SwPicturePb.SizeMode = PictureBoxSizeMode.CenterImage;
             SwPicturePb.TabIndex = 2;
             SwPicturePb.TabStop = false;
+            SwPicturePb.Click += SwPicturePb_Click;
             // 
             // TopPanel
             // 
@@ -240,6 +248,7 @@
             // MinimizeBtn
             // 
             MinimizeBtn.BackColor = Color.FromArgb(45, 45, 48);
+            MinimizeBtn.Cursor = Cursors.Hand;
             MinimizeBtn.Dock = DockStyle.Right;
             MinimizeBtn.FlatAppearance.BorderColor = Color.FromArgb(63, 63, 70);
             MinimizeBtn.FlatAppearance.MouseDownBackColor = Color.FromArgb(150, 50, 50);
@@ -260,6 +269,7 @@
             // MaximizeBtn
             // 
             MaximizeBtn.BackColor = Color.FromArgb(45, 45, 48);
+            MaximizeBtn.Cursor = Cursors.Hand;
             MaximizeBtn.Dock = DockStyle.Right;
             MaximizeBtn.FlatAppearance.BorderColor = Color.FromArgb(63, 63, 70);
             MaximizeBtn.FlatAppearance.MouseDownBackColor = Color.FromArgb(150, 50, 50);
@@ -279,6 +289,7 @@
             // CloseBtn
             // 
             CloseBtn.BackColor = Color.FromArgb(45, 45, 48);
+            CloseBtn.Cursor = Cursors.Hand;
             CloseBtn.Dock = DockStyle.Right;
             CloseBtn.FlatAppearance.BorderColor = Color.FromArgb(63, 63, 70);
             CloseBtn.FlatAppearance.MouseDownBackColor = Color.FromArgb(150, 50, 50);

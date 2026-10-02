@@ -73,6 +73,7 @@
             // LoginBtn
             // 
             LoginBtn.BackColor = Color.FromArgb(70, 70, 74);
+            LoginBtn.Cursor = Cursors.Hand;
             LoginBtn.FlatAppearance.BorderColor = Color.FromArgb(85, 85, 90);
             LoginBtn.FlatAppearance.MouseDownBackColor = Color.FromArgb(95, 95, 100);
             LoginBtn.FlatAppearance.MouseOverBackColor = Color.FromArgb(85, 85, 90);
@@ -90,6 +91,7 @@
             // RegisterBtn
             // 
             RegisterBtn.BackColor = Color.FromArgb(70, 70, 74);
+            RegisterBtn.Cursor = Cursors.Hand;
             RegisterBtn.FlatAppearance.BorderColor = Color.FromArgb(85, 85, 90);
             RegisterBtn.FlatAppearance.MouseDownBackColor = Color.FromArgb(95, 95, 100);
             RegisterBtn.FlatAppearance.MouseOverBackColor = Color.FromArgb(85, 85, 90);
@@ -139,6 +141,7 @@
             // TopPanel
             // 
             TopPanel.BackColor = Color.FromArgb(37, 37, 38);
+            TopPanel.BorderStyle = BorderStyle.FixedSingle;
             TopPanel.Controls.Add(MinimizeBtn);
             TopPanel.Controls.Add(MaximizeBtn);
             TopPanel.Controls.Add(CloseBtn);
@@ -153,6 +156,7 @@
             // MinimizeBtn
             // 
             MinimizeBtn.BackColor = Color.FromArgb(45, 45, 48);
+            MinimizeBtn.Cursor = Cursors.Hand;
             MinimizeBtn.Dock = DockStyle.Right;
             MinimizeBtn.FlatAppearance.BorderColor = Color.FromArgb(63, 63, 70);
             MinimizeBtn.FlatAppearance.MouseDownBackColor = Color.FromArgb(150, 50, 50);
@@ -161,10 +165,10 @@
             MinimizeBtn.Font = new Font("Microsoft Sans Serif", 10F);
             MinimizeBtn.ForeColor = Color.FromArgb(184, 184, 184);
             MinimizeBtn.Image = (Image)resources.GetObject("MinimizeBtn.Image");
-            MinimizeBtn.Location = new Point(281, 0);
+            MinimizeBtn.Location = new Point(279, 0);
             MinimizeBtn.Margin = new Padding(0);
             MinimizeBtn.Name = "MinimizeBtn";
-            MinimizeBtn.Size = new Size(28, 29);
+            MinimizeBtn.Size = new Size(28, 27);
             MinimizeBtn.TabIndex = 2;
             MinimizeBtn.TextAlign = ContentAlignment.MiddleRight;
             MinimizeBtn.UseVisualStyleBackColor = false;
@@ -173,6 +177,7 @@
             // MaximizeBtn
             // 
             MaximizeBtn.BackColor = Color.FromArgb(45, 45, 48);
+            MaximizeBtn.Cursor = Cursors.Hand;
             MaximizeBtn.Dock = DockStyle.Right;
             MaximizeBtn.FlatAppearance.BorderColor = Color.FromArgb(63, 63, 70);
             MaximizeBtn.FlatAppearance.MouseDownBackColor = Color.FromArgb(150, 50, 50);
@@ -181,10 +186,10 @@
             MaximizeBtn.Font = new Font("Microsoft Sans Serif", 10F);
             MaximizeBtn.ForeColor = Color.FromArgb(184, 184, 184);
             MaximizeBtn.Image = (Image)resources.GetObject("MaximizeBtn.Image");
-            MaximizeBtn.Location = new Point(309, 0);
+            MaximizeBtn.Location = new Point(307, 0);
             MaximizeBtn.Margin = new Padding(0);
             MaximizeBtn.Name = "MaximizeBtn";
-            MaximizeBtn.Size = new Size(28, 29);
+            MaximizeBtn.Size = new Size(28, 27);
             MaximizeBtn.TabIndex = 1;
             MaximizeBtn.TextAlign = ContentAlignment.MiddleRight;
             MaximizeBtn.UseVisualStyleBackColor = false;
@@ -192,6 +197,7 @@
             // CloseBtn
             // 
             CloseBtn.BackColor = Color.FromArgb(45, 45, 48);
+            CloseBtn.Cursor = Cursors.Hand;
             CloseBtn.Dock = DockStyle.Right;
             CloseBtn.FlatAppearance.BorderColor = Color.FromArgb(63, 63, 70);
             CloseBtn.FlatAppearance.MouseDownBackColor = Color.FromArgb(150, 50, 50);
@@ -200,10 +206,10 @@
             CloseBtn.Font = new Font("Microsoft Sans Serif", 10F);
             CloseBtn.ForeColor = Color.FromArgb(184, 184, 184);
             CloseBtn.Image = (Image)resources.GetObject("CloseBtn.Image");
-            CloseBtn.Location = new Point(337, 0);
+            CloseBtn.Location = new Point(335, 0);
             CloseBtn.Margin = new Padding(0);
             CloseBtn.Name = "CloseBtn";
-            CloseBtn.Size = new Size(28, 29);
+            CloseBtn.Size = new Size(28, 27);
             CloseBtn.TabIndex = 0;
             CloseBtn.TextAlign = ContentAlignment.MiddleRight;
             CloseBtn.UseVisualStyleBackColor = false;

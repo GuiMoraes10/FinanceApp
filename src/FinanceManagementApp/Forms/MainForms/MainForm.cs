@@ -61,5 +61,10 @@ namespace FinanceManagementApp
                 SendMessage(Handle, WM_NCLBUTTONDOWN, HTCAPTION, 0);
             }
         }
+
+        private void SwPicturePb_Click(object sender, EventArgs e)
+        {
+            OpenFormInPanel(new HomeForm("Guilherme"));
+        }
     }
 }

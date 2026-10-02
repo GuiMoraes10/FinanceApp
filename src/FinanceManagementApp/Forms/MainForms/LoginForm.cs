@@ -1,5 +1,4 @@
 ﻿using System.Runtime.InteropServices;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement.Window;
 
 namespace FinanceManagementApp.Forms
 {
