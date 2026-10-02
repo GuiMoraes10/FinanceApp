@@ -1,4 +1,6 @@
-﻿namespace FinanceApp.Entities
+﻿using FinanceApp.Enums;
+
+namespace FinanceApp.Entities
 {
     public class ScheduledTransaction
     {

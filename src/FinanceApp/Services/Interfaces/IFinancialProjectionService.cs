@@ -1,4 +1,6 @@
-﻿namespace FinanceApp.Services.Interfaces
+﻿using FinanceApp.Models;
+
+namespace FinanceApp.Services.Interfaces
 {
     public interface IFinancialProjectionService
     {

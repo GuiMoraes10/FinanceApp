@@ -1,5 +1,6 @@
 ﻿using FinanceApp.DTOs.Transaction;
 using FinanceApp.Entities;
+using FinanceApp.Enums;
 using FinanceApp.Repositories.Interfaces;
 using FinanceApp.Services.Interfaces;
 

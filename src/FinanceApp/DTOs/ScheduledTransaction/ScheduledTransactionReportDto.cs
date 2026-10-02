@@ -1,4 +1,5 @@
 ﻿using FinanceApp.Entities;
+using FinanceApp.Enums;
 
 namespace FinanceApp.DTOs.ScheduledTransaction
 {

@@ -1,10 +1,17 @@
 services:
   cosmos:
-    image: mcr.microsoft.com/cosmosdb/linux/azure-cosmos-emulator:latest
+    image: mcr.microsoft.com/cosmosdb/linux/azure-cosmos-emulator:vnext-latest
     container_name: financeapp-cosmos
-    environment:
-      AZURE_COSMOS_EMULATOR_PARTITION_COUNT: 10
-      AZURE_COSMOS_EMULATOR_ENABLE_DATA_PERSISTENCE: "true"
+    restart: unless-stopped
+
+    command:
+      - --protocol
+      - https
+
     ports:
       - "8081:8081"
-      - "10250-10255:10250-10255"
+      - "8080:8080"
+      - "1234:1234"
+
+    volumes:
+      - ./docker/cosmos-data:/data

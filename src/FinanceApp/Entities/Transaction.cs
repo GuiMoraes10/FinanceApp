@@ -1,4 +1,6 @@
-﻿namespace FinanceApp.Entities
+﻿using FinanceApp.Enums;
+
+namespace FinanceApp.Entities
 {
     public class Transaction
     {
@@ -9,23 +11,5 @@
         public DateTime Date { get; set; }
         public TransactionType Type { get; set; }
         public TransactionCategory Category { get; set; }
-    }
-
-    public enum TransactionType
-    {
-        Income,
-        Expense
-    }
-
-    public enum TransactionCategory
-    {
-        Bill,
-        Food,
-        Transport,
-        Leisure,
-        CreditCard,
-        Investment,
-        Salary,
-        Other
     }
 }

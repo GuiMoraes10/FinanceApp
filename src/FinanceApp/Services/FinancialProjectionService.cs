@@ -1,5 +1,7 @@
 ﻿using FinanceApp.DTOs.ScheduledTransaction;
 using FinanceApp.Entities;
+using FinanceApp.Enums;
+using FinanceApp.Models;
 using FinanceApp.Services.Interfaces;
 
 namespace FinanceApp.Services
@@ -26,7 +28,7 @@ namespace FinanceApp.Services
             {
                 foreach (var transaction in scheduledTransations)
                 {
-                    if (transaction.Type == Entities.TransactionType.Income)
+                    if (transaction.Type == TransactionType.Income)
                     {
                         monthBalance += transaction.Value;
                     }
@@ -50,7 +52,7 @@ namespace FinanceApp.Services
             {
                 foreach (var transaction in scheduledTransations)
                 {
-                    if (transaction.Type == Entities.TransactionType.Expense)
+                    if (transaction.Type == TransactionType.Expense)
                     {
                         expenseValue += transaction.Value;
                     }
@@ -70,7 +72,7 @@ namespace FinanceApp.Services
             {
                 foreach (var transaction in scheduledTransations)
                 {
-                    if (transaction.Type == Entities.TransactionType.Income)
+                    if (transaction.Type == TransactionType.Income)
                     {
                         incomeValue += transaction.Value;
                     }
@@ -231,20 +233,5 @@ namespace FinanceApp.Services
 
             return months;
         }
-    }
-
-    public class InvestmentProjection
-    {
-        public required Investment Investment { get; set; }
-        public decimal[] BalanceProjection { get; set; } = new decimal[12];
-    }
-
-    public class MonthRelatory
-    {
-        public int Month { get; set; }
-        public decimal EndingBalance { get; set; }
-        public decimal Income { get; set; }
-        public decimal Expenses { get; set; }
-        public IEnumerable<ScheduledTransactionReportDto>? Transactions { get; set; } = [];
     }
 }
