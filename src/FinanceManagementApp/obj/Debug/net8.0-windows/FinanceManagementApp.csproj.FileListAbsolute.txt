@@ -3,7 +3,6 @@ C:\Users\moraes\Documents\Proj\Pers\FinanceApp\src\FinanceManagementApp\bin\Debu
 C:\Users\moraes\Documents\Proj\Pers\FinanceApp\src\FinanceManagementApp\bin\Debug\net8.0-windows\FinanceManagementApp.runtimeconfig.json
 C:\Users\moraes\Documents\Proj\Pers\FinanceApp\src\FinanceManagementApp\bin\Debug\net8.0-windows\FinanceManagementApp.dll
 C:\Users\moraes\Documents\Proj\Pers\FinanceApp\src\FinanceManagementApp\bin\Debug\net8.0-windows\FinanceManagementApp.pdb
-C:\Users\moraes\Documents\Proj\Pers\FinanceApp\src\FinanceManagementApp\obj\Debug\net8.0-windows\FinanceManagementApp.Form1.resources
 C:\Users\moraes\Documents\Proj\Pers\FinanceApp\src\FinanceManagementApp\obj\Debug\net8.0-windows\FinanceManagementApp.csproj.GenerateResource.cache
 C:\Users\moraes\Documents\Proj\Pers\FinanceApp\src\FinanceManagementApp\obj\Debug\net8.0-windows\FinanceManagementApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\moraes\Documents\Proj\Pers\FinanceApp\src\FinanceManagementApp\obj\Debug\net8.0-windows\FinanceManagementApp.AssemblyInfoInputs.cache
@@ -16,3 +15,13 @@ C:\Users\moraes\Documents\Proj\Pers\FinanceApp\src\FinanceManagementApp\obj\Debu
 C:\Users\moraes\Documents\Proj\Pers\FinanceApp\src\FinanceManagementApp\obj\Debug\net8.0-windows\FinanceManagementApp.genruntimeconfig.cache
 C:\Users\moraes\Documents\Proj\Pers\FinanceApp\src\FinanceManagementApp\obj\Debug\net8.0-windows\ref\FinanceManagementApp.dll
 C:\Users\moraes\Documents\Proj\Pers\FinanceApp\src\FinanceManagementApp\obj\Debug\net8.0-windows\FinanceM.6C78C9B7.Up2Date
+C:\Users\moraes\Documents\Proj\Pers\FinanceApp\src\FinanceManagementApp\obj\Debug\net8.0-windows\FinanceManagementApp.MainForm.resources
+C:\Users\moraes\Documents\Proj\Pers\FinanceApp\src\FinanceManagementApp\obj\Debug\net8.0-windows\FinanceManagementApp.Forms.Dashboard.resources
+C:\Users\moraes\Documents\Proj\Pers\FinanceApp\src\FinanceManagementApp\obj\Debug\net8.0-windows\FinanceManagementApp.Forms.FinancialProjection.resources
+C:\Users\moraes\Documents\Proj\Pers\FinanceApp\src\FinanceManagementApp\obj\Debug\net8.0-windows\FinanceManagementApp.Forms.Investments.resources
+C:\Users\moraes\Documents\Proj\Pers\FinanceApp\src\FinanceManagementApp\obj\Debug\net8.0-windows\FinanceManagementApp.Forms.LoginForm.resources
+C:\Users\moraes\Documents\Proj\Pers\FinanceApp\src\FinanceManagementApp\obj\Debug\net8.0-windows\FinanceManagementApp.Forms.ScheduledTransactions.resources
+C:\Users\moraes\Documents\Proj\Pers\FinanceApp\src\FinanceManagementApp\obj\Debug\net8.0-windows\FinanceManagementApp.Forms.Settings.resources
+C:\Users\moraes\Documents\Proj\Pers\FinanceApp\src\FinanceManagementApp\obj\Debug\net8.0-windows\FinanceManagementApp.Forms.Transactions.resources
+C:\Users\moraes\Documents\Proj\Pers\FinanceApp\src\FinanceManagementApp\obj\Debug\net8.0-windows\FinanceManagementApp.Properties.Resources.resources
+C:\Users\moraes\Documents\Proj\Pers\FinanceApp\src\FinanceManagementApp\obj\Debug\net8.0-windows\FinanceManagementApp.Forms.HomeForm.resources
